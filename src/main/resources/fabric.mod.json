@@ -3,12 +3,12 @@
 	"id": "wayland-touch-input",
 	"version": "${version}",
 	"name": "Wayland Touch Input",
-	"description": "Converts touchscreen input to mouse clicks for Wayland on ARM64",
+	"description": "Converts touchscreen input to mouse clicks for Wayland on Linux",
 	"authors": [
-		"YourName"
+		"MiQuasar"
 	],
 	"contact": {
-		"sources": "https://github.com/yourusername/wayland-touch-input"
+		"sources": "https://github.com/MiQuasar/touchContollerWaylandSupport"
 	},
 	"license": "MIT",
 	"icon": "assets/wayland-touch-input/icon.png",
